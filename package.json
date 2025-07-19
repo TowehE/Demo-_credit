@@ -2,7 +2,7 @@
   "name": "lendsqr-wallet-service",
   "version": "1.0.0",
   "description": "Wallet service for Demo Credit mobile lending app",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
