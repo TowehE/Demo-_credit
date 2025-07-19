@@ -147,7 +147,7 @@ npm test
 
 
 ## Deployment
-The application is deployed on onRender with the following considerations:
+The application is deployed on onRender: https://toweh-elizabeth-lendsqr-be-test.onrender.com 
 
 
 ## Performance Optimizations
