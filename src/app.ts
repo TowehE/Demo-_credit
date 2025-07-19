@@ -32,7 +32,7 @@ app.use(express.urlencoded({ extended: true }));
 app.get('/health', (req, res) => {
     res.status(200).json({
         status: 'success',
-        message: 'Lendsqr Demo Wallet Service is running',
+        message: 'Lendsqr Demo Wallet Service health is running',
         timestamp: new Date().toISOString()
     });
 });
