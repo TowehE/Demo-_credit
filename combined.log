@@ -284,3 +284,11 @@
 {"level":"info","message":"Server is running on port 3456","service":"lendsqr-wallet","timestamp":"2025-07-16T23:18:07.064Z"}
 {"level":"info","message":"Database connected successfully","service":"lendsqr-wallet","timestamp":"2025-07-16T23:22:51.952Z"}
 {"level":"info","message":"Server is running on port 3456","service":"lendsqr-wallet","timestamp":"2025-07-16T23:22:51.959Z"}
+{"level":"info","message":"Database connected successfully","service":"lendsqr-wallet","timestamp":"2025-07-19T05:51:29.290Z"}
+{"level":"info","message":"Server is running on port 3456","service":"lendsqr-wallet","timestamp":"2025-07-19T05:51:29.318Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"lendsqr-wallet","timestamp":"2025-07-19T06:01:32.414Z"}
+{"level":"info","message":"Database connected successfully","service":"lendsqr-wallet","timestamp":"2025-07-19T06:21:29.565Z"}
+{"level":"info","message":"Server is running on port 3456","service":"lendsqr-wallet","timestamp":"2025-07-19T06:21:29.580Z"}
+{"level":"info","message":"Database connected successfully","service":"lendsqr-wallet","timestamp":"2025-07-19T06:37:37.949Z"}
+{"level":"info","message":"Server is running on port 3456","service":"lendsqr-wallet","timestamp":"2025-07-19T06:37:37.961Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"lendsqr-wallet","timestamp":"2025-07-19T06:38:17.708Z"}
