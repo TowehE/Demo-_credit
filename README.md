@@ -146,6 +146,14 @@ npm run dev
 npm test
 
 
+## Entity-Relationship Diagram (ERD)
+```
+The database schema was modeled using DB Designer. It defines the relationships between users, wallets, and transactions.
+View the ERD here:
+https://dbdesigner.page.link/jhov4NrCmv2gjvqY9
+
+
+
 ## Deployment
 The application is deployed on onRender: https://toweh-elizabeth-lendsqr-be-test.onrender.com 
 
